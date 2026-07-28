@@ -23,6 +23,7 @@ React 19	UI library with component-based architecture
 Vite 8	Fast development build tool
 Bootstrap 5	Responsive styling and layout
 JavaScript (ES6+)	Application logic
+
 **📁 Project Structure**
 CourseReactProject_2/
 ├── public/
@@ -42,6 +43,7 @@ CourseReactProject_2/
 ├── index.html
 ├── vite.config.js
 └── package.json
+
 **⚛️ Key React Concepts Used**
 useState — managing and updating the course list
 Props — passing data and handlers between parent and child components
