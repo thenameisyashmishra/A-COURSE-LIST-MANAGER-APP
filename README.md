@@ -19,7 +19,9 @@ Coming soon
 💡 Empty state message when no courses are available
 📱 Fully responsive UI using Bootstrap 5
 🛠️ Tech Stack
-Technology	Purpose
+```
+**Technology	Purpose**
+```
 React 19	UI library with component-based architecture
 Vite 8	Fast development build tool
 Bootstrap 5	Responsive styling and layout
@@ -50,13 +52,15 @@ CourseReactProject_2/
 ```
 
 **⚛️ Key React Concepts Used**
+```
 useState — managing and updating the course list
 Props — passing data and handlers between parent and child components
 Controlled Inputs — two-way binding for the course input field
 Array Methods — .map() for rendering, .filter() for removing courses
 Conditional Rendering — showing empty state when list is empty
 Component-based Architecture — 6 dedicated, reusable components
-⚙️ Getting Started
+```
+**⚙️ Getting Started**
 Prerequisites
 Node.js (v18 or above)
 npm
@@ -76,13 +80,14 @@ npm run dev
 
 Open http://localhost:5173 in your browser to view the app.
 
-📦 Available Scripts
+**📦 Available Scripts**
 Command	Description
 npm run dev	Start development server
 npm run build	Build for production
 npm run preview	Preview production build
 npm run lint	Run ESLint
-🙋‍♂️ Author
+
+**🙋‍♂️ Author**
 
 Yash Mishra
 📧 your- yash07mishra05@gmail.com
