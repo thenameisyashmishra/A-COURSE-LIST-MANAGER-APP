@@ -11,6 +11,7 @@ Coming soon
  screenshot
 
 **✨ Features**
+```
 ✅ View a list of pre-loaded courses (B.Tech, BBA, BCA, MBA, MCA)
 ➕ Add new courses dynamically using an input field
 🗑️ Remove any course from the list
@@ -23,6 +24,7 @@ React 19	UI library with component-based architecture
 Vite 8	Fast development build tool
 Bootstrap 5	Responsive styling and layout
 JavaScript (ES6+)	Application logic
+```
 
 ## 📁 Project Structure
 
