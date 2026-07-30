@@ -24,25 +24,28 @@ Vite 8	Fast development build tool
 Bootstrap 5	Responsive styling and layout
 JavaScript (ES6+)	Application logic
 
-**📁 Project Structure**
+## 📁 Project Structure
+
+```
 CourseReactProject_2/
 ├── public/
 │   └── favicon.svg
 ├── src/
 │   ├── CourseComponent/
-│   │   ├── AppName.jsx          # App header/title component
-│   │   ├── CourseInput.jsx      # Input field + Add button
-│   │   ├── CourseName.jsx       # "Available Courses" heading
-│   │   ├── CourseRender.jsx     # Renders the full course list
-│   │   ├── CourseItems.jsx      # Individual course item (Enroll + Remove)
-│   │   └── CourseListEmpty.jsx  # Empty state message
-│   ├── App.jsx                  # Root component with state management
-│   ├── main.jsx                 # React DOM entry point
+│   │   ├── AppName.jsx
+│   │   ├── CourseInput.jsx
+│   │   ├── CourseName.jsx
+│   │   ├── CourseRender.jsx
+│   │   ├── CourseItems.jsx
+│   │   └── CourseListEmpty.jsx
+│   ├── App.jsx
+│   ├── main.jsx
 │   ├── App.css
 │   └── index.css
 ├── index.html
 ├── vite.config.js
 └── package.json
+```
 
 **⚛️ Key React Concepts Used**
 useState — managing and updating the course list
