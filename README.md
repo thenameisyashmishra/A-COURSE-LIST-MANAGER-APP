@@ -91,7 +91,8 @@ npm run lint	Run ESLint
 
 Yash Mishra
 📧 your- yash07mishra05@gmail.com
-🔗 LinkedIn- www.linkedin.com/in/yash-mishra-417128323 | GitHub
+🔗 LinkedIn- www.linkedin.com/in/yash-mishra-417128323 
+🔗 GitHub- https://github.com/thenameisyashmishra
 
 **📄 License**
 
