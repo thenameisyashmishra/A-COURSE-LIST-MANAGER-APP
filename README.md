@@ -6,10 +6,6 @@ A dynamic and interactive Course List Manager built with React 19, Vite, and Boo
 
 https://a-course-list-manager-mf1mxdsof-yash-189f.vercel.app/
 
-**🖼️ Preview**
-
- screenshot
-
 **✨ Features**
 ```
 ✅ View a list of pre-loaded courses (B.Tech, BBA, BCA, MBA, MCA)
