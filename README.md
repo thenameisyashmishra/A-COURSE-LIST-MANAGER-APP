@@ -1,6 +1,6 @@
 **📚 Course List Manager — React App**
 
-A dynamic and interactive Course List Manager built with React 19, Vite, and Bootstrap 5. Users can view available courses, add new ones, enroll, and remove courses — all with real-time state updates.
+A dynamic and interactive Course List Manager built with React 19, Vite, and Bootstrap 5. Users can view available courses, add new ones, enroll, and remove courses, all with real-time state updates.
 
 **🚀 Live Demo**
 
